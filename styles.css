@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-p{
+.selector{
+		 color : #00f;
+       background-color : #eee;
+}
+
+.selector{
 		 color : #00f;
        background-color : #eee;
 }
